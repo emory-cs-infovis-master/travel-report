@@ -15,6 +15,7 @@ Your report should contain the following components:
 	1. Title and authors of the paper. 
 	2. 1 paragraph summary of the paper in your own words.
 	3. 1-2 paragraph critique of the paper or presentation. E.g., Was the presentation easy to follow? Was the methodology sound? Was the topic well-motivated?
+- 1 paragraph describing your overall impressions of the experience. E.g., Was the conference enjoyable? Was the virtual format a seamless experience? 
 
 ## Submission:
 Your document should be in PDF format, 2-3 pages in length. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 

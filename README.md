@@ -19,3 +19,13 @@ Your report should contain the following components:
 
 ## Submission:
 Your document should be in PDF format, 2-3 pages in length. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+
+## Grading:
+Based on 
+- [2%] List title and authors
+- [5%] Clear communication of paper's motivation
+- [8%] Clear communication of paper's methodology & contributions
+- [7%] Thoughtful critique of the presentation
+
+each, for the four talks.
++ [12%] Discussion of overall impressions of the conference

@@ -1,4 +1,4 @@
-# Homework 7: IEEE VIS Travel Report
+# HW 7: IEEE VIS Travel Report
 
 The conference [IEEE VIS](http://ieeevis.org/year/2021/welcome) is the premier conference for information visualization research. This year, it's completely virtual and 100% free for students to attend. In this assignment, you will select some papers of interest, watch the conference presentations, and produce a short "travel" report.
 

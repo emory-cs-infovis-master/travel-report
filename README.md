@@ -27,5 +27,5 @@ Based on
 - [8%] Clear communication of paper's methodology & contributions
 - [7%] Thoughtful critique of the presentation
 
-each, for the four talks.
-+ [12%] Discussion of overall impressions of the conference
+each, for the four talks, plus
+- [12%] Discussion of overall impressions of the conference
